@@ -16,4 +16,4 @@
 #'   \item{KEGG}{KEGG pathway identifiers}
 #' }
 #' @source \url{https://elifesciences.org/articles/00886}
-"testDriveRData"
+"testdriveRData"
